@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @janaskhans
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning java, python,SQL 
+- 🌱 I’m currently learning java, python,SQL, Also working on data analysing 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email= janaskhan.ze@gmail.com
 - 😄 Pronouns: ...
